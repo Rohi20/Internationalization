@@ -1,4 +1,4 @@
-{
+[{
 	"common": {
 		"title": "Vous pouvez vous attendre à voir les volumes de recherche suivants par secteur :",
 		"headerUppercase": "{{header, uppercase}}",
@@ -12,5 +12,5 @@
 		"b2b": "B2B",
 		"hospitality": "Hospitalité"
 	}
-}
+}]
 
