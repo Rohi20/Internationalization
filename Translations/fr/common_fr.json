@@ -1,5 +1,5 @@
 [
-  {
+  common: {
   "title": "Vous pouvez vous attendre à voir les volumes de recherche suivants par secteur :",
   "headerUppercase": "{{header, uppercase}}",
   "industry": "Industrie",
