@@ -1,4 +1,4 @@
-{
+[{
   "title": "You can expect to see the following search volumes by industry:",
   "industry": "industry",
   "search volume range": "search volume range",
@@ -10,5 +10,5 @@
   "finServices": "Financial Services",
   "b2b": "B2B",
   "hospitality": "Hospitality"
-}
+}]
 
